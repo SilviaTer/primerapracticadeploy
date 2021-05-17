@@ -1,0 +1,10 @@
+article¨{
+    display:flex
+    alight-items:center
+}
+p{
+    padding:10px;
+}
+article: nth-child(2){
+    flex-direction:row-reverse
+}
